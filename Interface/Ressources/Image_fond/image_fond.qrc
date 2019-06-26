@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="Fond">
+    <file>fond1.png</file>
+  </qresource>
+  <qresource prefix="Button">
+    <file>boutton.png</file>
+  </qresource>
+</RCC>
